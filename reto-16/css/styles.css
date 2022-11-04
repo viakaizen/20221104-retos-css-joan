@@ -1,0 +1,25 @@
+table{
+    color: brown;
+    background-image: url(../assets/img/bg-dog.jpg);
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    border: 10px solid #ccc;
+    box-shadow: 10px 10px 10px #000;
+    border-collapse:collapse;
+}
+.bgred{
+    background-color: lightsalmon;
+}
+.bgyellow{
+    background-color: khaki;
+}
+th{
+    background-color: mediumseagreen;
+}
+td {
+    border: 2px solid #ccc;
+}
+.cellbg{
+    background-color:blanchedalmond;
+    opacity: 0.9;
+}
