@@ -1,0 +1,25 @@
+#main{
+    background-image: url(../assets/img/penguins.jpg);
+    background-position: center;
+    height: 95vh;
+    overflow: hidden;
+    margin: 5px 60px 15px 60px;
+}
+th{
+    background-color: #fff;
+}
+table
+{
+    top:45%;
+    left: 10%;
+    position: relative;
+    text-align: center;
+    border: 10px solid #ccc;
+    box-shadow: 10px 10px 10px #000;
+    width: 80%;
+    border-collapse:collapse;
+}
+td {
+    background-color:khaki;
+    border: 2px solid #ccc;
+}
