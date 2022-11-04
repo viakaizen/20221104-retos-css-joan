@@ -1,0 +1,23 @@
+table {
+    border: 10px solid #c56c56;
+    border-collapse: collapse;
+    box-shadow: 10px 10px 10px #f00;
+}
+th {
+    text-transform: uppercase;
+    background-color: darkgreen;
+    color: greenyellow;
+    padding: 0.5vw;
+}
+tr, th, td {
+    border: 2px solid #c56c56;
+}
+.col1 {
+    text-transform: uppercase;
+}
+.rowa{
+    background-color:greenyellow;
+}
+.rowb{
+    background-color: cornflowerblue;
+}
